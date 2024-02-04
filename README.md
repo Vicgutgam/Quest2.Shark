@@ -1,6 +1,8 @@
 
 <h1>Defensa y Redención de los Tiburones</h1>
 
+
+![](https://github.com/Vicgutgam/Quest1.-Museum/blob/main/_71a0ffc1-a843-45cb-8d88-2c0b74281e4a.jpg)
 <h3>Introducción: </h3>
 Esta pequeña presentación se desarrolla dentro de la segunda Ques que estoy realizando dentro del curso de Análisis de Datos. En este proyecto se ha trabajado con una base de datos objetinida de la web https://www.sharkattackfile.net/, la cual intenta recoger todos los encuentros que se producen entre los humanos y los tiburones.
 
